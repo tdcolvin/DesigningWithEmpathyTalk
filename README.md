@@ -27,4 +27,4 @@ My repo demonstrating shared element transitions
 
 
 ## About me
-I'm an experienced Android developer, available both as a [freelancer](https://apptaura.com) and through by company [Apptaura](https://apptaura.com)
+I'm an experienced Android developer, available both as a [freelancer](https://tomcolvin.co.uk) and through by company [Apptaura](https://apptaura.com)
