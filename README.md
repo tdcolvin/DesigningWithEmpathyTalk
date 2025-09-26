@@ -17,6 +17,9 @@ Article from 1993 by UX expert Jakob Nielsen, explaining human psychology around
 #### [Response time in man-computer conversational transactions](https://yusufarslan.net/sites/yusufarslan.net/files/upload/content/Miller1968.pdf)
 The 1968 study with the same conclusions of the above
 
+#### [How to Make Progress Bars Feel Faster to Users](https://uxmovement.com/buttons/how-to-make-progress-bars-feel-faster-to-users/)
+A discussion of the pschology behind waiting, and what users _think_ looks fast.
+
 
 ## Code examples
 #### [tdcolvin/ExampleProgressCentricNotifications](https://github.com/tdcolvin/ExampleProgressCentricNotifications)
